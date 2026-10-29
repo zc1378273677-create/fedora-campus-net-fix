@@ -90,4 +90,4 @@ fedora-campus-net-fix-v1.0.0/
 - [故障排查](docs/TROUBLESHOOTING.md)
 - [使用与撤销](docs/USAGE.md)
 
-此 ZIP 是本地整理的源码发布包，没有创建或上传 GitHub 仓库。不包含账号、密码或原始抓包文件。网卡名、网段及路由示例来自本次排查，不能直接当作其他设备的固定参数。
+
