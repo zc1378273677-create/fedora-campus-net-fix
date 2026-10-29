@@ -2,8 +2,7 @@
 
 基于 Fedora 44 Workstation（Linux 发行版），通过配置 NetworkManager 校园网认证路由补丁，解决了 Linux 环境下北京理工大学珠海校区（BITZH）的校园网接入问题。
 
-![./fedora-campus-net-fix-poster-v2.png]
-
+![Fedora 校园网接入修复海报](./fedora-campus-net-fix-poster-v2.png)
 
 版本 **1.0.0**，整理日期 **2026-10-29（北京时间）**。
 
